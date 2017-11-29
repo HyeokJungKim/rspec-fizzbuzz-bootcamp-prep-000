@@ -1,5 +1,3 @@
-def fizzbuzz(i)
-  if i % 3 == 0 # if the number int is divisible by 3
-    return "Fizz" # Go fizz
-  end
+def fizzbuzz
+ 
 end
